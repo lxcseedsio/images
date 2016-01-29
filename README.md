@@ -37,7 +37,7 @@ Examples :
 
 ``lxc image list lxcseeds: type=fat``
 
-``lxc image list lxcseeds: apache=true``
+``lxc image list lxcseeds: apache=True``
 
 ## Propose and votes
 
